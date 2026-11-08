@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'NOYIFA_CAD_Android_Project.zip'
+      - 'NOYIFA_CAD_Android_Project(2).zip'
       - '.github/workflows/build-apk.yml'
 
 jobs:
